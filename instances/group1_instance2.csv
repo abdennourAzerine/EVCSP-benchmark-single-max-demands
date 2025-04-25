@@ -1,4 +1,4 @@
-index,arrival_time,departure_time,required_
+index,arrival_time,departure_time,required_energy
 0,1.2,5.8,33.1
 1,1.4,7.6,52
 2,1.6,9.6,64.6
