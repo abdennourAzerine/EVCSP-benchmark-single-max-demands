@@ -12,6 +12,7 @@ The EVCSP involves scheduling a set of EV charging demands over a discrete time 
 
 
 ## 📁 Folder Structure
+```
 EVCSP-benchmark/
 ├── chargers/
 │   ├── group1.csv
@@ -22,7 +23,7 @@ EVCSP-benchmark/
 │   └── ...
 ├── README.md
 └── LICENSE  # Optional: add MIT license or similar
-
+```
 
 ---
 
